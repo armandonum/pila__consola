@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+C:\Users\arman\source\repos\danner\danner\Source1.cpp(61,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\arman\source\repos\danner\danner\Source1.cpp(81,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\arman\source\repos\danner\danner\Source1.cpp(94,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\arman\source\repos\danner\danner\Source1.cpp(112,31): warning C4018: '<': no coinciden signed/unsigned
+  danner.vcxproj -> C:\Users\arman\source\repos\danner\Debug\danner.exe
